@@ -1,0 +1,13 @@
+<Alloy>
+    <Collection src="book" />
+    <Window class="container">
+        <TableView dataCollection="book"
+                   dataTransform="transformFunction"
+                   dataFilter=""
+                   dataFunction="updateUI"
+                   onDragEnd="refreshTable">
+            <!-- Also can use Require -->
+            <TableViewRow title="{title}" />
+        </TableView>
+    </Window>
+</Alloy>

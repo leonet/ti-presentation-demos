@@ -1,0 +1,30 @@
+
+".container": {
+    backgroundColor: "#FFFFFF"
+}
+
+"#titleLabel": {
+    // top: "30", 
+    width: Ti.UI.SIZE, 
+    height: Ti.UI.SIZE
+}
+
+"TextField": {
+    width: "90%", 
+    height: "60",
+    borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,   
+}
+
+"#titleTextField": { 
+    // top: "60",    
+}
+
+"#authorLabel": {
+    // top: "130", 
+    width: Ti.UI.SIZE, 
+    height: Ti.UI.SIZE
+}
+
+"#authorTextField": { 
+    // top: "200",   
+}

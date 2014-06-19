@@ -1,0 +1,9 @@
+<Alloy>
+    <Window title="Tab 1" class="container" layout="vertical">
+        <Label id="titleLabel">Title</Label>
+        <TextField id="titleTextField" hintText="A title"></TextField>
+        <Label id="authorLabel">Author</Label>
+        <TextField id="authorTextField" hintText="An author"></TextField>
+        <Button id="saveButton" onClick="saveBook" title="Save" />
+    </Window>
+</Alloy>

@@ -1,0 +1,10 @@
+<Alloy>
+	<TabGroup>
+		<Tab title="Tab 1" icon="KS_nav_ui.png">
+		  <Require type="view" src="add" id="addTab"/>
+		</Tab>
+		<Tab title="Tab 2" icon="KS_nav_views.png">
+			<Require type="view" src="books" id="addTab"/>
+		</Tab>
+	</TabGroup>
+</Alloy>
