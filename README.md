@@ -4,8 +4,13 @@
 
 ## HalloyMedellinJs
 
-Alloy demo.
+An Alloy application example.
+
+* Tabs.
+* Multiple controllers.
+* Database.
+* TableView.
 
 ## HelloMedellinJs
 
-Classic Titanium demo.
+A classic Titanium application example.
